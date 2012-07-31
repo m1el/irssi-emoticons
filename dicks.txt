@@ -1,0 +1,78 @@
+/alias /good /say ヽ( ´ー｀)ﾉ
+/alias /evil /say （ ｀ー´）
+/alias /uu /say (☝ﾟ∀ﾟ)☝
+/alias /sad /say( ´Ａ`)
+/alias /happy /say（´∀｀）
+/alias /nou /say (`D´)σ
+/alias /rite /say（ ´_ゝ`）
+/alias /derp /say ヽ（。_°）ﾉ
+/alias /derp2 /say ヽ(°_。)ﾉ
+/alias /derp3 /say ヽ(。^。)ﾉ
+/alias /hosaka /sayヽ( >∀<)ﾉ AHAHA AHAHA AHAHAHAHA
+/alias /33 /say ( ¯3¯)
+/alias /ee /say (-ε-)
+/alias /boon /say ⊂二二二（ ＾ω＾）二⊃
+/alias /fap /say (*´Д`)ﾊｧﾊｧ
+/alias /nani /say Σ(ﾟДﾟ；ｏ)
+/alias /nani2 /say Σ(っﾟДﾟ；)っ
+/alias /watashi /say σ(・_・) 私？
+/alias /kita /say ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━!!!!!
+/alias /kitah /say ｷﾀ━━━━━━(ﾟ Дﾟ )━━━━━━????!!!
+/alias /kitaa /say ｷ-ｷﾀ━━━(ﾟ∀ﾟ≡(ﾟ∀ﾟ≡ﾟ∀ﾟ)≡ﾟ∀ﾟ)━━━━!!!!!!!!!!
+/alias /kitaaa /say ｷＹ⌒Ｙ⌒（ﾟ∀ﾟ)⌒Ｙ⌒（｡Ａ｡)⌒Ｙ⌒（ﾟ∀ﾟ)⌒Ｙ⌒Ｙ ﾀ!!!
+/alias /blush /say ( *≖‿≖*)
+/alias /why /say щ(ﾟДﾟщ)
+/alias /wry /say (屮゜Д゜)屮
+/alias /wrh /say щ(ﾟД゜)屮
+/alias /wryy /say (屮 `Д´)屮 WRYYYYYYYYYYYYYYYYYY
+/alias /beam /say (。・ω・)σ ⌒* ―――――――――――→
+/alias /goodjob /say d(ﾟーﾟd(ﾟーﾟd(ﾟーﾟd(ﾟーﾟ)bﾟｰﾟ)bﾟｰﾟ)bﾟｰﾟ)b
+/alias /gun /say (´∀`)_┳※･････････････････････････(;ﾟﾛﾟ)･･･････････
+/alias /orz /say ＿|￣|○
+/alias /punch /say ( ゜▽゜)=◯)`ν゜)
+/alias /kickk /say Σ(ﾟ∀´(┗┐ヽ(･∀･ )ﾉ
+/alias /poke /say ( ´∀｀)σ)∀`)
+/alias /run /say ε=ε=ε=┌(;*´Д`)ﾉ
+/alias /ll /say ☜(ﾟ∀ﾟ☜)
+/alias /shake /say (ﾟд ﾟ≡ﾟд ﾟ)
+/alias /letsgo /say ( >∀<)ﾉ Let's la go!
+/alias /ba /say (☝ﾟ∀ﾟ)☝(☝ﾟ∀ﾟ)☝(☟ﾟ∀ﾟ)☟(☟ﾟ∀ﾟ)☟☜(ﾟ∀ﾟ☜)(☞ﾟ∀ﾟ)☞☜(ﾟ∀ﾟ☜)(☞ﾟ∀ﾟ)☞ B A
+/alias /erin /say ( ﾟ∀ﾟ)o彡゜ ( ﾟ∀ﾟ)o彡゜ ( ﾟ∀ﾟ)o彡゜
+/alias /rr /say (☞ﾟ∀ﾟ)☞
+/alias /pon /say PON!(°ー° )シ-=≡圀 圀圀
+/alias /pon2 /say PON!(°ー° )シ-=≡ 中 中中
+/alias /kan /say KAN!(°ー° )シ-=≡圀 圀圀圀
+/alias /riichi /say ノ･ω･)ノ——＝ ⊂＝：・：＝⊃ Riichi!
+/alias /chi /say CHI！(-o- )ノ ≡圀 固圈
+/alias /ron /say !!!!NOR（（（（ヽ(｀０´）ノ））））RON!!!!
+/alias /chicken /say (*・_・)ノ⌒*○┼＜ CHICKEN HAND!!!
+/alias /shock /say（ ﾟДﾟ）
+/alias /dunno /say ┐(´д｀)┌
+/alias /hrm /say ಠ_ಠ
+/alias /aha /say ( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
+/alias /dozo /say ( >Д<)ﾉ★DOZO
+/alias /dozo /say (ﾉﾟ-ﾟ)ﾉ旦~DOZO
+/alias /cry /say ｡･ﾟ･(ﾉД`)･ﾟ･｡
+/alias /kira /say (ﾉゝ∀･)~キラ☆
+/alias /we /say ┐('～`；)┌
+/alias /lazer /say （ﾉ ﾟ ◇ﾟ−−−−−−＝＝＝＝＝＝ΞΞΞΞΞΞ）））
+/alias /kisu /say ( º3º)ﾉ❤ KISSU
+/alias /shocku /say Σ(O_O；)
+/alias /spider /say ᄽ(°໒°)ᄿ
+/alias /erm /say ರ◡ರ
+/alias /sad2 /say（ ´Д｀）
+/alias /wink /say ☆^(o≧▽ﾟ)o
+/alias /starlight /say STARLIGHT BREAKER!☆・。・。☆・。☆・。☆・。。★。・。★。・★。・★★★★★★～★
+/alias /hi5 /say 八( ｀ー´) hi5!
+/alias /plz /say (人･_･) pleaseeee!
+/alias /you /say ( ･｀ω･)σ you...
+/alias /shock2 /say (((( ；ﾟДﾟ)))
+/alias /happydance /say ♪┏(・o･)┛♪┗ ( ･o･) ┓♪┏ ( ) ┛♪┗ (･o･ ) ┓♪┏(･o･)┛
+/alias /hadoken /say ↓↘ → + P (☞`O´) ☞ = = = = ☽☽☽☽☽☽☽❍
+/alias /rage /say (╬ ಠ益ಠ)
+/alias /ji /say ( ﾟ ｰ ﾟ)
+/alias /?? /say ヽ( ﾟДﾟ)ﾉ?
+/alias /gun2 /say ( ・_<)┏━      〜⊃
+/alias /katto /say (✂ﾟ∀ﾟ)✂ KATTO KATTO KATTO KATTO KATTOOOO!! (✂ﾟ∀ﾟ)✂
+/alias /lod /say ಠ_ಠ
+/alias /tiro ξ(✿ ＞◡❛)ξ▄︻▇▇〓〓 Tiro Finale!===／人◕ ‿‿ ◕人＼
