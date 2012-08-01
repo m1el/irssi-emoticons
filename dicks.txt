@@ -75,4 +75,5 @@
 /alias /gun2 /say ( ・_<)┏━      〜⊃
 /alias /katto /say (✂ﾟ∀ﾟ)✂ KATTO KATTO KATTO KATTO KATTOOOO!! (✂ﾟ∀ﾟ)✂
 /alias /lod /say ಠ_ಠ
-/alias /tiro ξ(✿ ＞◡❛)ξ▄︻▇▇〓〓 Tiro Finale!===／人◕ ‿‿ ◕人＼
+/alias /tiro /say ξ(✿ ＞◡❛)ξ▄︻▇▇〓〓 Tiro Finale!===／人◕ ‿‿ ◕人＼
+/alias /yu /say ლ(ಠ益ಠლ)
