@@ -1,14 +1,14 @@
 /alias good say ヽ( ´ー｀)ﾉ
 /alias evil say （ ｀ー´）
 /alias uu say (☝ﾟ∀ﾟ)☝
-/alias sad say( ´Ａ`)
-/alias happy say（´∀｀）
+/alias sad say ( ´Ａ`)
+/alias happy say （´∀｀）
 /alias nou say (`D´)σ
-/alias rite say（ ´_ゝ`）
+/alias rite say （ ´_ゝ`）
 /alias derp say ヽ（。_°）ﾉ
 /alias derp2 say ヽ(°_。)ﾉ
 /alias derp3 say ヽ(。^。)ﾉ
-/alias hosaka sayヽ( >∀<)ﾉ AHAHA AHAHA AHAHAHAHA
+/alias hosaka say ヽ( >∀<)ﾉ AHAHA AHAHA AHAHAHAHA
 /alias 33 say ( ¯3¯)
 /alias ee say (-ε-)
 /alias boon say ⊂二二二（ ＾ω＾）二⊃
@@ -46,7 +46,7 @@
 /alias chi say CHI！(-o- )ノ ≡圀 固圈
 /alias ron say !!!!NOR（（（（ヽ(｀０´）ノ））））RON!!!!
 /alias chicken say (*・_・)ノ⌒*○┼＜ CHICKEN HAND!!!
-/alias shock say（ ﾟДﾟ）
+/alias shock say （ ﾟДﾟ）
 /alias dunno say ┐(´д｀)┌
 /alias hrm say ಠ_ಠ
 /alias aha say ( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
@@ -60,7 +60,7 @@
 /alias shocku say Σ(O_O；)
 /alias spider say ᄽ(°໒°)ᄿ
 /alias erm say ರ◡ರ
-/alias sad2 say（ ´Д｀）
+/alias sad2 say （ ´Д｀）
 /alias wink say ☆^(o≧▽ﾟ)o
 /alias starlight say STARLIGHT BREAKER!☆・。・。☆・。☆・。☆・。。★。・。★。・★。・★★★★★★～★
 /alias hi5 say 八( ｀ー´) hi5!
