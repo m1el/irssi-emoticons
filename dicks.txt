@@ -1,6 +1,5 @@
 /alias good say ヽ( ´ー｀)ﾉ
 /alias evil say （ ｀ー´）
-/alias uu say (☝ﾟ∀ﾟ)☝
 /alias sad say ( ´Ａ`)
 /alias happy say （´∀｀）
 /alias nou say (`D´)σ
@@ -33,12 +32,14 @@
 /alias kickk say Σ(ﾟ∀´(┗┐ヽ(･∀･ )ﾉ
 /alias poke say ( ´∀｀)σ)∀`)
 /alias run say ε=ε=ε=┌(;*´Д`)ﾉ
-/alias ll say ☜(ﾟ∀ﾟ☜)
 /alias shake say (ﾟд ﾟ≡ﾟд ﾟ)
 /alias letsgo say ( >∀<)ﾉ Let's la go!
 /alias ba say (☝ﾟ∀ﾟ)☝(☝ﾟ∀ﾟ)☝(☟ﾟ∀ﾟ)☟(☟ﾟ∀ﾟ)☟☜(ﾟ∀ﾟ☜)(☞ﾟ∀ﾟ)☞☜(ﾟ∀ﾟ☜)(☞ﾟ∀ﾟ)☞ B A
-/alias erin say ( ﾟ∀ﾟ)o彡゜ ( ﾟ∀ﾟ)o彡゜ ( ﾟ∀ﾟ)o彡゜
+/alias uu say (☝ﾟ∀ﾟ)☝
+/alias dd say (☟ﾟ∀ﾟ)☟
+/alias ll say ☜(ﾟ∀ﾟ☜)
 /alias rr say (☞ﾟ∀ﾟ)☞
+/alias erin say ( ﾟ∀ﾟ)o彡゜ ( ﾟ∀ﾟ)o彡゜ ( ﾟ∀ﾟ)o彡゜
 /alias pon say PON!(°ー° )シ-=≡圀 圀圀
 /alias pon2 say PON!(°ー° )シ-=≡ 中 中中
 /alias kan say KAN!(°ー° )シ-=≡圀 圀圀圀
@@ -78,3 +79,4 @@
 /alias tiro say ξ(✿ ＞◡❛)ξ▄︻▇▇〓〓 Tiro Finale!===／人◕ ‿‿ ◕人＼
 /alias yu say ლ(ಠ益ಠლ)
 /alias shrug say ¯\_(ツ)_/¯
+/alias table say (╯°□°)╯︵ ┻━┻
