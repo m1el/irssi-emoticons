@@ -65,7 +65,8 @@
 /alias sad2 say （ ´Д｀）
 /alias wink say ☆^(o≧▽ﾟ)o
 /alias starlight say STARLIGHT BREAKER!☆・。・。☆・。☆・。☆・。。★。・。★。・★。・★★★★★★～★
-/alias hi5 say 八( ｀ー´) hi5!
+/alias hi5 say (　｀ー´)八(｀ー´　) ＨＩ５
+/alias hii5八( ｀ー´) hi5!
 /alias plz say (人･_･) pleaseeee!
 /alias you say ( ･｀ω･)σ you...
 /alias shock2 say (((( ；ﾟДﾟ)))
