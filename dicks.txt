@@ -49,6 +49,7 @@
 /alias chicken say (*・_・)ノ⌒*○┼＜ CHICKEN HAND!!!
 /alias shock say （ ﾟДﾟ）
 /alias dunno say ┐(´д｀)┌
+/alias idunno ¯\(º_o)/¯
 /alias hrm say ಠ_ಠ
 /alias aha say ( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
 /alias dozo say ( >Д<)ﾉ★DOZO
