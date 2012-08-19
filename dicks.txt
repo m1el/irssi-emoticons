@@ -49,7 +49,7 @@
 /alias chicken say (*・_・)ノ⌒*○┼＜ CHICKEN HAND!!!
 /alias shock say （ ﾟДﾟ）
 /alias dunno say ┐(´д｀)┌
-/alias idunno ¯\(º_o)/¯
+/alias idunno say ¯\(º_o)/¯
 /alias hrm say ಠ_ಠ
 /alias aha say ( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
 /alias dozo say ( >Д<)ﾉ★DOZO
@@ -82,3 +82,6 @@
 /alias yu say ლ(ಠ益ಠლ)
 /alias shrug say ¯\_(ツ)_/¯
 /alias table say (╯°□°)╯︵ ┻━┻
+/alias brofist say (ó ì_í)=óò=(ì_í ò)
+/alias boon2 say (づ｡◕‿‿◕｡)づ
+
