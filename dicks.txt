@@ -85,3 +85,4 @@
 /alias brofist say (ó ì_í)=óò=(ì_í ò)
 /alias boon2 say (づ｡◕‿‿◕｡)づ
 /alias yo say (￣▽￣)ノ
+/alias w (´・ω・`)
