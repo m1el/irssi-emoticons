@@ -88,3 +88,4 @@
 /alias yo say (￣▽￣)ノ
 /alias w say (´・ω・`)
 /alias adventure say (• ◡•)|╯╰(❍ᴥ❍ʋ) ADVENTURE TIME!!!!
+/alias ohwell say ┐(^͜^)┌ わぁい！
